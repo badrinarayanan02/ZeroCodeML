@@ -12,4 +12,5 @@ xgboost==1.5.0
 zipp==3.11.0
 joblib==1.1.1
 matplotlib==3.7.1
+distutils
 Seaborn==0.12.2
